@@ -139,17 +139,19 @@ async def new_pdisk_url(urls):
 
 async def remove_username(new_List):
     for i in new_List:
-        if('@' in i or 't.me' in i or 'https://bit.ly/3m4gabB' in i or 'https://bit.ly/pdisk_tuts' in i or 'telegra.ph' in i):
+        if('@' in i or 't.me' in i or 'https://bit.ly/3DD8N2j' in i or 'https://bit.ly/2Yyp8Gc' in i or 'telegra.ph' in i):
             new_List.remove(i)
     return new_List
 
 
 async def addFooter(str):
     footer = """
-━━━━━━━━━━━━━━━
-⚙️ How to Download / Watch Online or Change Audio : https://bit.ly/pdisk_tuts
-━━━━━━━━━━━━━━━
-⭐️JOIN CHANNEL ➡️ t.me/""" + CHANNEL
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ ᴏʀ ᴅᴏᴡɴʟᴏᴀᴅ ɪɴ ᴘʟᴀʏɪᴛ ᴀᴘᴘ,ɴᴏ ʙᴜғғᴇʀɪɴɢ,ғᴜʟʟ sᴘᴇᴇᴅ🚀
+👉 How to Download : https://bit.ly/3DD8N2j
+👉 Change Audio : https://bit.ly/2Yyp8Gc
+▬▬▬▬▬▬▬▬▬▬▬▬▬▬
+♻️ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : @""" + CHANNEL
     return str + footer
 
 bot.run()
