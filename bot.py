@@ -151,7 +151,7 @@ async def addFooter(str):
 👉 How to Download : https://bit.ly/3DD8N2j
 👉 Change Audio : https://bit.ly/2Yyp8Gc
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-♻️ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : @""" + CHANNEL
+♻️ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : @Cinemacollections"""
     return str + footer
 
 bot.run()
