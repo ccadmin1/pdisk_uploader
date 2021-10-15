@@ -146,12 +146,9 @@ async def remove_username(new_List):
 
 async def addFooter(str):
     footer = """
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-ᴡᴀᴛᴄʜ ᴏɴʟɪɴᴇ ᴏʀ ᴅᴏᴡɴʟᴏᴀᴅ ɪɴ ᴘʟᴀʏɪᴛ ᴀᴘᴘ,ɴᴏ ʙᴜғғᴇʀɪɴɢ,ғᴜʟʟ sᴘᴇᴇᴅ🚀
-👉 How to Download : https://bit.ly/3DD8N2j
-👉 Change Audio : https://bit.ly/2Yyp8Gc
-▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-♻️ᴜᴘʟᴏᴀᴅᴇᴅ ʙʏ : @Cinemacollections"""
+⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️⌨️
+⚠️Main channel: @masala_moviez
+"""
     return str + footer
 
 bot.run()
